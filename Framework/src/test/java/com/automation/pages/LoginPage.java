@@ -8,7 +8,7 @@ public class LoginPage {
 	
 	WebDriver driver;
 	
-
+	//This is a new commit to test GIT
 	public LoginPage(WebDriver ldriver)
 	{
 		this.driver = ldriver;
