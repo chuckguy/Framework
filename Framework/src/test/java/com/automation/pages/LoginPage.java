@@ -34,5 +34,4 @@ public class LoginPage {
 		pass.sendKeys(passwordApplication);
 		loginButton.click();
 	}
-	
 }
