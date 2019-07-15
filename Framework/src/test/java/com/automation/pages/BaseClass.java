@@ -54,6 +54,7 @@ public class BaseClass {
 		driver = BrowserFactory.startApplication(driver, browser, url);
 		
 		Reporter.log("Browser and application is up and running.", true);
+		
 	}
 	
 	@AfterClass
